@@ -1176,7 +1176,7 @@
     "shortDescription": "Many software projects fail unnecessarily because of unclear objectives, redundant and unproductive work, cost overruns, and a host of other avoidable process problems. In response, agile processes and lightweight tooling have begun to replace traditional engineering processes throughout the development lifecycle. An agile approach to application lifecycle management improves product quality, reduces time to market, and makes for happier developers.    Agile ALM is a guide for Java developers who want to integrate flexible agile practices and lightweight tooling along all phases of the software development process. The book introduces a new vision for managing change in requirements and process more efficiently and flexibly. You'll learn powerful practices like task-based Development, where you align activities into tasks resulting in traceable artifacts, Continuous Integration, in which you frequently and systematically integrate, build, and test an application in development and using Scrum as an agile approach to release management. The effect is a more comprehensive and practical approach to build, configuration, deployment, release, test, quality, integration, and requirements management.    This book synthesizes technical and functional elements to provide a comprehensive approach to software development. You'll learn to see the whole scope of the development process as a set of defined tasks, many of which are repeated daily, and then master the tools and practices you need to accomplish each of those tasks efficiently.    Because efficient tool chains can radically improve the speed and fluidity of the development process, this book demonstrates how to integrate state-of-the-art lightweight tools. Many of the tools and examples are Java-based, but the Agile ALM principles apply to all development platforms. As well, the many examples show how you can bridge different languages and systems.",
     "longDescription": "Many software projects fail unnecessarily because of unclear objectives, redundant and unproductive work, cost overruns, and a host of other avoidable process problems. In response, agile processes and lightweight tooling have begun to replace traditional engineering processes throughout the development lifecycle. An agile approach to application lifecycle management improves product quality, reduces time to market, and makes for happier developers.    Agile ALM is a guide for Java developers who want to integrate flexible agile practices and lightweight tooling along all phases of the software development process. The book introduces a new vision for managing change in requirements and process more efficiently and flexibly. You'll learn powerful practices like task-based Development, where you align activities into tasks resulting in traceable artifacts, Continuous Integration, in which you frequently and systematically integrate, build, and test an application in development and using Scrum as an agile approach to release management. The effect is a more comprehensive and practical approach to build, configuration, deployment, release, test, quality, integration, and requirements management.    This book synthesizes technical and functional elements to provide a comprehensive approach to software development. You'll learn to see the whole scope of the development process as a set of defined tasks, many of which are repeated daily, and then master the tools and practices you need to accomplish each of those tasks efficiently.    Because efficient tool chains can radically improve the speed and fluidity of the development process, this book demonstrates how to integrate state-of-the-art lightweight tools. Many of the tools and examples are Java-based, but the Agile ALM principles apply to all development platforms. As well, the many examples show how you can bridge different languages and systems.",
     "status": "PUBLISH",
-    "authors": ["Michael HÃ¼ttermann"],
+    "authors": ["Michael Hüttermann"],
     "categories": ["Software Engineering"]
   },
   {
@@ -1424,10 +1424,10 @@
     "longDescription": "The first edition of Groovy in Action is the undisputed definitive reference on the Groovy language. Written by core members of the Groovy language team, this book presents Groovy like none other can   from the inside out. Since its introduction a few years back, Groovy has grown from an upstart dynamic language for the JVM to become an integral part of any Java developer's toolbox. Projects like Grails and Griffon have extended Groovy's reach into the web and desktop app world.    Groovy in Action, Second Edition is a thoroughly-revised, comprehensive guide to Groovy programming. It introduces Java developers to the dynamic features that Groovy provides, and shows you how to apply Groovy to a range of tasks including building new apps, integration with existing code, and DSL development.    This book introduces Groovy by example, presenting lots of reusable code while explaining the underlying concepts. Java developers new to Groovy find a smooth transition into the dynamic programming world. Groovy experts gain a solid reference that challenges them to explore Groovy deeply and creatively.    For readers learning it from scratch. Groovy in Action thoroughly moves through the Groovy basics, including:    Groovy's unique approach of optional typing  Simple and collective Groovy data types  Working with closures and Groovy control structures  The merits of Metaprogramming  Readers are presented with rich and detailed examples illustrating Groovy's enhancements to Java, including:    How to work with builders and the GDK  Database and XML programming with Groovy  Concurrency for the multicore era: actors, asynchronous collections and dataflow  Building Domain Specific languages   a very hot topic!  Groovy in Action then demonstrates how to integrate Groovy in Java projects and provides:    Tips and Tricks  Unit testing and build support  Groovy frameworks, including Grails, Griffon, and Groovy on Windows",
     "status": "MEAP",
     "authors": [
-      "Dierk KÃ¶nig",
+      "Dierk König",
       "Guillaume Laforge",
       "Paul King",
-      "CÃ©dric Champeau",
+      "Cédric Champeau",
       "Hamlet D'Arcy",
       "Erik Pragt",
       "",
@@ -2524,7 +2524,7 @@
     "shortDescription": "\"If there was ever a textbook for software development in PHP, this would be it.\"    Cal Evans, Podcast Review, Zend Developer Network",
     "longDescription": "To keep programming productive and enjoyable, state-of-the-art practices and principles are essential. Object-oriented programming and design help manage complexity by keeping components cleanly separated. Unit testing helps prevent endless, exhausting debugging sessions. Refactoring keeps code supple and readable. PHP offers all this, and more.    PHP in Action shows you how to apply PHP techniques and principles to all the most common challenges of web programming, including:    Web presentation and templates  User interaction including the Model-View-Contoller architecture  Input validation and form handling  Database connection and querying and abstraction  Object persistence  This book takes on the most important challenges of web programming in PHP 5 using state-of-the art programming and software design techniques including unit testing, refactoring and design patterns. It provides the essential skills you need for developing or maintaining complex to moderately complex PHP web applications.",
     "status": "PUBLISH",
-    "authors": ["Dagfinn ReiersÃ¸l with Marcus Baker", "Chris Shiflett"],
+    "authors": ["Dagfinn Reiersøl with Marcus Baker", "Chris Shiflett"],
     "categories": ["PHP"]
   },
   {
@@ -2949,7 +2949,7 @@
       "Robert Hanson",
       "Jason Essington",
       "",
-      "Anna TÃ¶kke"
+      "Anna Tökke"
     ],
     "categories": ["Java"]
   },
@@ -3171,7 +3171,7 @@
     "shortDescription": "SharePoint 2010 Web Parts in Action is a comprehensive guide to deploying, customizing, and creating Web Parts. Countless examples walk you through everything from design, to development, deployment, troubleshooting, and upgrading. Because Web Parts are ASP.NET controls, you'll learn to use Visual Studio 2010 to extend existing Web Parts and to build custom components from scratch. ",
     "longDescription": "If you look at a SharePoint application you'll find that most of its active components are Web Parts. SharePoint 2010 includes dozens of prebuilt Web Parts that you can use. It also provides an API that lets you build custom Web Parts using C# or VB.NET.    SharePoint 2010 Web Parts in Action is a comprehensive guide to deploying, customizing, and creating Web Parts. Countless examples walk you through everything from design, to development, deployment, troubleshooting, and upgrading. Because Web Parts are ASP.NET controls, you'll learn to use Visual Studio 2010 to extend existing Web Parts and to build custom components from scratch. ",
     "status": "PUBLISH",
-    "authors": ["Wictor WilÃ©n"],
+    "authors": ["Wictor Wilén"],
     "categories": ["Microsoft .NET"]
   },
   {
@@ -3630,7 +3630,7 @@
     "pageCount": 0,
     "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bjarnason.jpg",
     "status": "MEAP",
-    "authors": ["Paul Chiusano", "RÃºnar Bjarnason"],
+    "authors": ["Paul Chiusano", "Rúnar Bjarnason"],
     "categories": []
   },
   {
@@ -3827,7 +3827,7 @@
     "pageCount": 0,
     "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mueller.jpg",
     "status": "PUBLISH",
-    "authors": ["Florian MÃ¼ller", "Jay Brown", "Jeff Potts"],
+    "authors": ["Florian Müller", "Jay Brown", "Jeff Potts"],
     "categories": []
   },
   {
@@ -4300,7 +4300,7 @@
     "pageCount": 0,
     "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/juric.jpg",
     "status": "MEAP",
-    "authors": ["SaÅ¡a JuricÂ´"],
+    "authors": ["Saša Juric´"],
     "categories": []
   },
   {
@@ -4465,4 +4465,5 @@
     "categories": []
   }
 ]
+
 
