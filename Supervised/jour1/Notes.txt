@@ -1,0 +1,76 @@
+ML:
+	Reinforcement:
+		(algo qui font la une)
+
+
+
+	Supervised:								>> VALEUR DE L'IA <<
+
+
+		Classification ou Régression
+
+		Variable cible
+		=> Performances (inclus)
+
+		features: int, float
+
+		LABELISED DATA:
+			Liste d'exemples: avec résultat attendu
+				ce qui donne une matrice/un dataframe avec les exemples/observation pour les lignes et les features/variables d'entrées/input pour les colonnes ASSOCIE à la variable cible/target/réponse
+
+			Features <=> X
+			target	 <=> Y
+
+		processus: ACQUISITION (Acquisition - Entrainement - Production)
+					RAW DATA => DATA WRANGLING => DATA => DATA CLEANING => csv(int, float)
+					  raw          csv				|
+							  						|	-valeurs manquantes
+							  						|	-valeurs abérantes
+							  						|
+							  						V
+							  					Target ?
+							  				Comment l'obtenir ?
+
+							  			-Target déjà dans le dataset => isoler
+							  			-Processus (couteux) Annotation/Labelisation
+
+				CLEANING + PREPROCESSING = 1 étape
+				CLEANING: 			toNumeric()
+				PREPROCESSING:		transformation()
+
+
+		processus: ENTRAINEMENT
+		où DATA = DATASET de la phase d'acquisition
+			pipeline d'entrainement: DATA => [ CLEANING + PREPROCESSING + ALGO-ML + HYPERPARAMETRE (config de l'algo) ] : TRAINED MODEL (fichier)
+												\  lignes de codes	/
+
+		processus: PRODUCTION
+			pipeline: y = f(DATA) où DATA est une donnée (ou un ensemble) inédite
+			pipeline de prediction: DATA => [ PREPROCESSING => TRAINED MODEL ] : prédiction
+
+
+	Unsupervised:
+		Pas de variable cible
+
+		ex: sur des clients => différent cluster de profil client
+
+		=> Regarder le résultat pour voir si exploitable
+
+		usages:
+			-Facilité la visualisation
+			-Clustering
+			-Dimensionality reduction (étape pour améliorer les performancces d'un algo Supervised)
+
+
+
+
+
+
+
+K Nearest neighbors:
+
+	+entrainement rapide
+	-prediction   lente
+
+	K élevé = BIAIS
+	K bas 	= COMPLEXITE
