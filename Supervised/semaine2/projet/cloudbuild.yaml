@@ -1,0 +1,13 @@
+steps:
+- name: 'gcr.io/cloud-builders/gcloud'
+  args:
+  - 'run'
+  - 'deploy'
+  - 'bankmarketingml'
+  - '--image'
+  - 'gcr.io/bankmarketingml/uvicorn-gunicorn-fastapi_bankmarketingml'
+  - '--region'
+  - 'europe-west1'
+  - '--platform'
+  - 'managed'
+  - '--allow-unauthenticated'
