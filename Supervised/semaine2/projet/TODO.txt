@@ -1,0 +1,16 @@
+A regarder:
+	OneHot encoding ou autre encoder et le faire apparaitre dans le book
+	ravel()
+
+A verifier:
+	comprehension du book (technique)
+
+A faire:
+	Commentaires le book
+	Note de synthese pdf (4 pages)
+	Présentation 20 minutes
+
+Pour aller plus loin:
+	dataprep
+	pandas profiling
+	API -> GCP
